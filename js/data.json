@@ -1,0 +1,1643 @@
+{
+  "info" :{ 
+    "versiune":"1",
+    "an":2019
+  },
+  "zi": [
+    { "an": [
+      { "grupa": [
+        {
+          "_grupa":"9101",
+          "_zi":"Luni",
+          "nrmat":6,
+          "numemat":["Fizica","DTI","SIM2","Fizica","Mecanica","DTI"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: Toti","Semigrupa: Toti", "Semigrupa: Toti","Semigrupa: Ambele","Semigrupa: A"],
+          "ora":["08:00 - 10:00","10:00 - 12:00","12:00 - 14:00","14:00 - 16:00","16:00 - 18:00","18:00 - 20:00"],
+          "tip":["Curs","Curs","Curs","Laborator","Seminar","Laborator"],
+          "paritate":["Paritate: Ambele","Paritate: Ambele","Paritate: Ambele","Paritate: Impar","Paritate: Impar","Paritate: Par"],
+          "profesor":["Profesor: M.Agop","Profesor: M.Axinte","Profesor: I.Rusu","Profesor: Fiz","Profesor: Meca","Profesor: M.Axinte"],
+          "sala":["Sala: T2","Sala: T2","Sala: T2","Sala: Lab Fizica", "Sala: Hala Sim","Sala: Lab Dti"]
+        },
+        {
+          "_obs":"9102",
+          "_zi":"Luni",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9103",
+          "_zi":"Luni",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9104",
+          "_zi":"Luni",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9105",
+          "_zi":"Luni",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9106",
+          "_zi":"Luni",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9201",
+          "_zi":"Luni",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9202",
+          "_zi":"Luni",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9203",
+          "_zi":"Luni",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9204",
+          "_zi":"Luni",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9301",
+          "_zi":"Luni",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9302",
+          "_zi":"Luni",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9303",
+          "_zi":"Luni",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9304",
+          "_zi":"Luni",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9401",
+          "_zi":"Luni",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9402",
+          "_zi":"Luni",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9403",
+          "_zi":"Luni",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9404",
+          "_zi":"Luni",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9501",
+          "_zi":"Luni",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9502",
+          "_zi":"Luni",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9503",
+          "_zi":"Luni",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9504",
+          "_zi":"Luni",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9601",
+          "_zi":"Luni",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9602",
+          "_zi":"Luni",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9603",
+          "_zi":"Luni",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9604",
+          "_zi":"Luni",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        }
+      ]}
+
+    ]},
+    { "an": [
+      { "grupa": [
+        {
+          "_obs":"9101",
+          "_zi":"Marti",
+          "nrmat":4,
+          "numemat":["PCLP(2)","Mecanica","Sim2","DTI"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: Toti","Semigrupa: Toti", "Semigrupa: B"],
+          "ora":["08:00 - 10:00","10:00 - 12:00","12:00 - 14:00","14:00 - 17:00"],
+          "tip":["Curs","Curs","Laborator","Laborator"],
+          "paritate":["Paritate: Ambele","Paritate: Ambele","Paritate: Ambele","Paritate: Ambele"],
+          "profesor":["Profesor: Vasile Manole","Profesor: E. Corduneanu","Profesor: I.Rusu","Profesor: M.Axinte"],
+          "sala":["Sala: T2","Sala: T2","Sala: ISIM21","Sala: Lab DTI"]
+        },
+        {
+          "_obs":"9102",
+          "_zi":"Marti",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9103",
+          "_zi":"Marti",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9104",
+          "_zi":"Marti",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9105",
+          "_zi":"Marti",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9106",
+          "_zi":"Marti",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9201",
+          "_zi":"Marti",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9202",
+          "_zi":"Marti",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9203",
+          "_zi":"Marti",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9204",
+          "_zi":"Marti",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9301",
+          "_zi":"Marti",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9302",
+          "_zi":"Marti",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9303",
+          "_zi":"Marti",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9304",
+          "_zi":"Marti",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9401",
+          "_zi":"Marti",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9402",
+          "_zi":"Marti",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9403",
+          "_zi":"Marti",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9404",
+          "_zi":"Marti",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9501",
+          "_zi":"Marti",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9502",
+          "_zi":"Marti",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9503",
+          "_zi":"Marti",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9504",
+          "_zi":"Marti",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9601",
+          "_zi":"Marti",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9602",
+          "_zi":"Marti",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9603",
+          "_zi":"Marti",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9604",
+          "_zi":"Marti",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        }
+      ]}
+
+    ]},
+    { "an": [
+      { "grupa": [
+        {
+          "_obs":"9101",
+          "_zi":"Miercuri",
+          "nrmat":7,
+          "numemat":["PCLP(2)","Educatie Fizica","Germana","PCLP(2)","Engleza","Engleza"],
+          "semigrupa":["Semigrupa: A","Semigrupa: B","Semigrupa: A", "Semigrupa: B","Semigrupa: Toti","Semigrupa: Toti"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","10:00 - 12:00","10:00 - 12:00","12:00 - 14:00","14:00 - 16:00"],
+          "tip":["Laborator","Sport","Seminar","Laborator","Seminar","Seminar"],
+          "paritate":["Paritate: Ambele","Paritate: Par","Paritate: Ambele","Paritate: Ambele","Paritate: Ambele","Paritate: Ambele"],
+          "profesor":["Profesor: Vasile Manole","Profesor:Sport","Profesor: Germana","Profesor: Vasile Manole","Profesor: Engleza","Profesor: Engleza"],
+          "sala":["Sala: T2","Sala: T2","Sala: T2","Sala: Lab Fizica", "Sala: Hala Sim","Sala: Lab Dti"]
+        },
+        {
+          "_obs":"9102",
+          "_zi":"Miercuri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9103",
+          "_zi":"Miercuri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9104",
+          "_zi":"Miercuri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9105",
+          "_zi":"Miercuri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9106",
+          "_zi":"Miercuri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9201",
+          "_zi":"Miercuri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9202",
+          "_zi":"Miercuri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9203",
+          "_zi":"Miercuri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9204",
+          "_zi":"Miercuri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9301",
+          "_zi":"Miercuri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9302",
+          "_zi":"Miercuri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9303",
+          "_zi":"Miercuri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9304",
+          "_zi":"Miercuri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9401",
+          "_zi":"Miercuri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9402",
+          "_zi":"Miercuri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9403",
+          "_zi":"Miercuri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9404",
+          "_zi":"Miercuri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9501",
+          "_zi":"Miercuri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9502",
+          "_zi":"Miercuri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9503",
+          "_zi":"Miercuri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9504",
+          "_zi":"Miercuri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9601",
+          "_zi":"Miercuri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9602",
+          "_zi":"Miercuri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9603",
+          "_zi":"Miercuri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9604",
+          "_zi":"Miercuri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        }
+      ]}
+
+    ]},
+    { "an": [
+      { "grupa": [
+        {
+          "_obs":"9101",
+          "_zi":"Joi",
+          "nrmat":4,
+          "numemat":["Ed. Fizica","Limba Franceza","Limba Franceza","Pedagogie(1)"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: Toti","Semigrupa: Toti", "Semigrupa: Toti"],
+          "ora":["08:00 - 10:00","12:00 - 14:00","14:00 - 16:00","18:00 - 20:00"],
+          "tip":["Curs","Curs","Curs","Laborator"],
+          "paritate":["Paritate: Ambele","Paritate: Ambele","Paritate: Ambele","Paritate: Impar"],
+          "profesor":["Profesor: M.Agop","Profesor: M.Axinte","Profesor: I.Rusu","Profesor: Fiz"],
+          "sala":["Sala: T2","Sala: T2","Sala: T2","Sala: Lab Fizica"]
+        },
+        {
+          "_obs":"9102",
+          "_zi":"Joi",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9103",
+          "_zi":"Joi",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9104",
+          "_zi":"Joi",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9105",
+          "_zi":"Joi",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9106",
+          "_zi":"Joi",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9201",
+          "_zi":"Joi",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9202",
+          "_zi":"Joi",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9203",
+          "_zi":"Joi",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9204",
+          "_zi":"Joi",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9301",
+          "_zi":"Joi",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9302",
+          "_zi":"Joi",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9303",
+          "_zi":"Joi",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9304",
+          "_zi":"Joi",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9401",
+          "_zi":"Joi",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9402",
+          "_zi":"Joi",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9403",
+          "_zi":"Joi",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9404",
+          "_zi":"Joi",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9501",
+          "_zi":"Joi",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9502",
+          "_zi":"Joi",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9503",
+          "_zi":"Joi",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9504",
+          "_zi":"Joi",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9601",
+          "_zi":"Joi",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9602",
+          "_zi":"Joi",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9603",
+          "_zi":"Joi",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9604",
+          "_zi":"Joi",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        }
+      ]}
+
+    ]},
+    { "an": [
+      { "grupa": [
+        {
+          "_obs":"9101",
+          "_zi":"Vineri",
+          "nrmat":2,
+          "numemat":["Algebra","Algebra"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: Toti"],
+          "ora":["08:00 - 10:00","10:00 - 12:00"],
+          "tip":["Curs","Seminar"],
+          "paritate":["Paritate: Ambele","Paritate: Ambele"],
+          "profesor":["Profesor: Daniela ROȘU","Profesor: Daniela ROȘU"],
+          "sala":["Sala: Hala Sim","Sala: Hala Sim"]
+        },
+        {
+          "_obs":"9102",
+          "_zi":"Vineri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9103",
+          "_zi":"Vineri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9104",
+          "_zi":"Vineri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9105",
+          "_zi":"Vineri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9106",
+          "_zi":"Vineri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9201",
+          "_zi":"Vineri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9202",
+          "_zi":"Vineri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9203",
+          "_zi":"Vineri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9204",
+          "_zi":"Vineri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9301",
+          "_zi":"Vineri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9302",
+          "_zi":"Vineri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9303",
+          "_zi":"Vineri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9304",
+          "_zi":"Vineri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9401",
+          "_zi":"Vineri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9402",
+          "_zi":"Vineri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9403",
+          "_zi":"Vineri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9404",
+          "_zi":"Vineri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9501",
+          "_zi":"Vineri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9502",
+          "_zi":"Vineri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9503",
+          "_zi":"Vineri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9504",
+          "_zi":"Vineri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9601",
+          "_zi":"Vineri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9602",
+          "_zi":"Vineri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9603",
+          "_zi":"Vineri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        },
+        {
+          "_obs":"9604",
+          "_zi":"Vineri",
+          "nrmat":3,
+          "numemat":["Materie1","Materie2","Materie3"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: B","Semigrupa: A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["Paritate: impar","Paritate: par","Paritate: par"],
+          "profesor":["Profesor: Xl","Profesor: V","Profesor: X"],
+          "sala":["Sala: SIM32","Sala: M2","Sala: M211"]
+        }
+      ]}
+
+    ]}
+  ]
+}

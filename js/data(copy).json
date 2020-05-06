@@ -1,0 +1,2115 @@
+{
+  "info" :{ 
+    "versiune":"1",
+    "an":2019
+  },
+  "zi": [
+    { "an": [
+      { "grupa": [
+        {
+          "_obs":"9101",
+          "nrmat":6,
+          "numemat":["Fizica","DTI","SIM2","Fizica","Mecanica","DTI"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: Toti","Semigrupa: Toti", "Semigrupa: Toti","Semigrupa: Ambele","Semigrupa: A"],
+          "ora":["08:00 - 10:00","10:00 - 12:00","12:00 - 14:00","14:00 - 16:00","16:00 - 18:00","18:00 - 20:00"],
+          "tip":["Curs","Curs","Curs","Laborator","Seminar","Laborator"],
+          "paritate":["Paritate: Ambele","Paritate: Ambele","Paritate: Ambele","Paritate: Impar","Paritate: Impar","Paritate: Par"],
+          "profesor":["Profesor: M.Agop","Profesor: M.Axinte","Profesor: I.Rusu","Profesor: Fiz","Profesor: Meca","Profesor: M.Axinte"],
+          "sala":["Sala: T2","Sala: T2","Sala: T2","Sala: Lab Fizica", "Sala: Hala Sim","Sala: Lab Dti"]
+        },
+        {
+          "_obs":"9102",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9103",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9104",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9105",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9106",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9201",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9202",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9203",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9204",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9301",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9302",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9303",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9304",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9401",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9402",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9403",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9404",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9501",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9502",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9503",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9504",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9601",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9602",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9603",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9604",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]}
+
+    ]},
+    { "an": [
+      { "grupa": [
+        {
+          "_obs":"9101",
+          "nrmat":6,
+          "numemat":["Fizica","DTI","SIM2","Fizica","Mecanica","DTI"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: Toti","Semigrupa: Toti", "Semigrupa: Toti","Semigrupa: Ambele","Semigrupa: A"],
+          "ora":["08:00 - 10:00","10:00 - 12:00","12:00 - 14:00","14:00 - 16:00","16:00 - 18:00","18:00 - 20:00"],
+          "tip":["Curs","Curs","Curs","Laborator","Seminar","Laborator"],
+          "paritate":["Paritate: Ambele","Paritate: Ambele","Paritate: Ambele","Paritate: Impar","Paritate: Impar","Paritate: Par"],
+          "profesor":["Profesor: M.Agop","Profesor: M.Axinte","Profesor: I.Rusu","Profesor: Fiz","Profesor: Meca","Profesor: M.Axinte"],
+          "sala":["Sala: T2","Sala: T2","Sala: T2","Sala: Lab Fizica", "Sala: Hala Sim","Sala: Lab Dti"]
+        },
+        {
+          "_obs":"9102",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9103",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9104",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9105",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9106",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9201",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9202",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9203",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9204",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9301",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9302",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9303",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9304",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9401",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9402",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9403",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9404",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9501",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9502",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9503",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9504",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9601",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9602",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9603",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9604",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]}
+
+    ]},
+    { "an": [
+      { "grupa": [
+        {
+          "_obs":"9101",
+          "nrmat":6,
+          "numemat":["Fizica","DTI","SIM2","Fizica","Mecanica","DTI"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: Toti","Semigrupa: Toti", "Semigrupa: Toti","Semigrupa: Ambele","Semigrupa: A"],
+          "ora":["08:00 - 10:00","10:00 - 12:00","12:00 - 14:00","14:00 - 16:00","16:00 - 18:00","18:00 - 20:00"],
+          "tip":["Curs","Curs","Curs","Laborator","Seminar","Laborator"],
+          "paritate":["Paritate: Ambele","Paritate: Ambele","Paritate: Ambele","Paritate: Impar","Paritate: Impar","Paritate: Par"],
+          "profesor":["Profesor: M.Agop","Profesor: M.Axinte","Profesor: I.Rusu","Profesor: Fiz","Profesor: Meca","Profesor: M.Axinte"],
+          "sala":["Sala: T2","Sala: T2","Sala: T2","Sala: Lab Fizica", "Sala: Hala Sim","Sala: Lab Dti"]
+        },
+        {
+          "_obs":"9102",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9103",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9104",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9105",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9106",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9201",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9202",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9203",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9204",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9301",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9302",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9303",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9304",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9401",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9402",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9403",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9404",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9501",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9502",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9503",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9504",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9601",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9602",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9603",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9604",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]}
+
+    ]},
+    { "an": [
+      { "grupa": [
+        {
+          "_obs":"9101",
+          "nrmat":6,
+          "numemat":["Fizica","DTI","SIM2","Fizica","Mecanica","DTI"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: Toti","Semigrupa: Toti", "Semigrupa: Toti","Semigrupa: Ambele","Semigrupa: A"],
+          "ora":["08:00 - 10:00","10:00 - 12:00","12:00 - 14:00","14:00 - 16:00","16:00 - 18:00","18:00 - 20:00"],
+          "tip":["Curs","Curs","Curs","Laborator","Seminar","Laborator"],
+          "paritate":["Paritate: Ambele","Paritate: Ambele","Paritate: Ambele","Paritate: Impar","Paritate: Impar","Paritate: Par"],
+          "profesor":["Profesor: M.Agop","Profesor: M.Axinte","Profesor: I.Rusu","Profesor: Fiz","Profesor: Meca","Profesor: M.Axinte"],
+          "sala":["Sala: T2","Sala: T2","Sala: T2","Sala: Lab Fizica", "Sala: Hala Sim","Sala: Lab Dti"]
+        },
+        {
+          "_obs":"9102",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9103",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9104",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9105",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9106",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9201",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9202",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9203",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9204",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9301",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9302",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9303",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9304",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9401",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9402",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9403",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9404",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9501",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9502",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9503",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9504",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9601",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9602",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9603",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9604",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]}
+
+    ]},
+    { "an": [
+      { "grupa": [
+        {
+          "_obs":"9101",
+          "nrmat":6,
+          "numemat":["Fizica","DTI","SIM2","Fizica","Mecanica","DTI"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: Toti","Semigrupa: Toti", "Semigrupa: Toti","Semigrupa: Ambele","Semigrupa: A"],
+          "ora":["08:00 - 10:00","10:00 - 12:00","12:00 - 14:00","14:00 - 16:00","16:00 - 18:00","18:00 - 20:00"],
+          "tip":["Curs","Curs","Curs","Laborator","Seminar","Laborator"],
+          "paritate":["Paritate: Ambele","Paritate: Ambele","Paritate: Ambele","Paritate: Impar","Paritate: Impar","Paritate: Par"],
+          "profesor":["Profesor: M.Agop","Profesor: M.Axinte","Profesor: I.Rusu","Profesor: Fiz","Profesor: Meca","Profesor: M.Axinte"],
+          "sala":["Sala: T2","Sala: T2","Sala: T2","Sala: Lab Fizica", "Sala: Hala Sim","Sala: Lab Dti"]
+        },
+        {
+          "_obs":"9102",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9103",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9104",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9105",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9106",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9201",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9202",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9203",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9204",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9301",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9302",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9303",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9304",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9401",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9402",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9403",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9404",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9501",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9502",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9503",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9504",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9601",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9602",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9603",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9604",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]}
+
+    ]},
+    { "an": [
+      { "grupa": [
+        {
+          "_obs":"9101",
+          "nrmat":6,
+          "numemat":["Fizica","DTI","SIM2","Fizica","Mecanica","DTI"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: Toti","Semigrupa: Toti", "Semigrupa: Toti","Semigrupa: Ambele","Semigrupa: A"],
+          "ora":["08:00 - 10:00","10:00 - 12:00","12:00 - 14:00","14:00 - 16:00","16:00 - 18:00","18:00 - 20:00"],
+          "tip":["Curs","Curs","Curs","Laborator","Seminar","Laborator"],
+          "paritate":["Paritate: Ambele","Paritate: Ambele","Paritate: Ambele","Paritate: Impar","Paritate: Impar","Paritate: Par"],
+          "profesor":["Profesor: M.Agop","Profesor: M.Axinte","Profesor: I.Rusu","Profesor: Fiz","Profesor: Meca","Profesor: M.Axinte"],
+          "sala":["Sala: T2","Sala: T2","Sala: T2","Sala: Lab Fizica", "Sala: Hala Sim","Sala: Lab Dti"]
+        },
+        {
+          "_obs":"9102",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9103",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9104",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9105",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9106",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9201",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9202",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9203",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9204",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9301",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9302",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9303",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9304",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9401",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9402",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9403",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9404",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9501",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9502",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9503",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9504",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9601",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9602",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9603",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9604",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]}
+
+    ]},
+    { "an": [
+      { "grupa": [
+        {
+          "_obs":"9101",
+          "nrmat":6,
+          "numemat":["Fizica","DTI","SIM2","Fizica","Mecanica","DTI"],
+          "semigrupa":["Semigrupa: Toti","Semigrupa: Toti","Semigrupa: Toti", "Semigrupa: Toti","Semigrupa: Ambele","Semigrupa: A"],
+          "ora":["08:00 - 10:00","10:00 - 12:00","12:00 - 14:00","14:00 - 16:00","16:00 - 18:00","18:00 - 20:00"],
+          "tip":["Curs","Curs","Curs","Laborator","Seminar","Laborator"],
+          "paritate":["Paritate: Ambele","Paritate: Ambele","Paritate: Ambele","Paritate: Impar","Paritate: Impar","Paritate: Par"],
+          "profesor":["Profesor: M.Agop","Profesor: M.Axinte","Profesor: I.Rusu","Profesor: Fiz","Profesor: Meca","Profesor: M.Axinte"],
+          "sala":["Sala: T2","Sala: T2","Sala: T2","Sala: Lab Fizica", "Sala: Hala Sim","Sala: Lab Dti"]
+        },
+        {
+          "_obs":"9102",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9103",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9104",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9105",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9106",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9201",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9202",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9203",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9204",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9301",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9302",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9303",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9304",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9401",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9402",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9403",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9404",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9501",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9502",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9503",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9504",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]},
+      { "grupa": [
+        {
+          "_obs":"9601",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9602",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9603",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        },
+        {
+          "_obs":"9604",
+          "nrmat":3,
+          "numemat":["MN","Mecanica","RM2"],
+          "semigrupa":["Toti","B","A"],
+          "ora":["08:00 - 10:00","08:00 - 10:00","08:00 - 10:00"],
+          "tip":["Lab","Curs","Curs"],
+          "paritate":["impar","par","par"],
+          "profesor":["Abdul","Prichindel","Xulescu T"],
+          "sala":["SIM32","M2","M211"]
+        }
+      ]}
+
+    ]}
+  ]
+}

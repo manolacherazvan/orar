@@ -1,0 +1,1074 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="onsenui/css/onsenui.min.css">
+    <link rel="stylesheet" href="onsenui/css/onsen-css-components.min.css">
+    <script src="onsenui/js/onsenui.min.js"></script>
+    <script src="js/data.js"></script>
+    <script src="js/index.js"></script>
+  </head>
+  
+  <body>
+      <ons-navigator id="nav" page="page1.html"></ons-navigator>
+
+      <template id="page1.html">
+        <ons-page id="page1">
+
+          
+          
+          <ons-card style="text-align: center">
+              <div class="title">Selecteaza Anul</div>
+              <div class="content">
+                  <ons-select width="50%" id="selectare-an" onchange=" selAn(event)">
+                        <option value="0">Anul 1 Licenta</option>
+                        <option value="1">Anul 2 Licenta</option>
+                        <option value="2">Anul 3 Licenta</option>
+                        <option value="3">Anul 4 Licenta</option>
+                        <option value="4">Anul 1 Master</option>
+                        <option value="5">Anul 2 Master</option>
+                    </ons-select>
+              </div>
+            </ons-card>
+
+            <ons-card id="card0" style="text-align: center">
+                <div class="title">Anul1 Licenta</div>
+                <div class="content">
+
+                  <ons-list>
+                      <ons-list-item modifier="chevron" onclick="selectare_grupa(0)">
+                        9101
+                      </ons-list-item>
+                      <ons-list-item modifier="chevron" onclick="selectare_grupa(1)">
+                        9102
+                      </ons-list-item>
+                      <ons-list-item modifier="chevron" onclick="selectare_grupa(2)">
+                        9103
+                      </ons-list-item>
+                      <ons-list-item modifier="chevron" onclick="selectare_grupa(3)">
+                        9104
+                      </ons-list-item>
+                      <ons-list-item modifier="chevron" onclick="selectare_grupa(4)">
+                        9105
+                      </ons-list-item>
+                      <ons-list-item modifier="chevron" onclick="selectare_grupa(5)">
+                        9106
+                      </ons-list-item>
+                    </ons-list>
+                </div>
+            </ons-card>
+            <ons-card id="card1" style="text-align: center">
+                <div class="title">Anul 2 Licenta</div>
+                <div class="content">
+
+                  <ons-list>
+                      <ons-list-item modifier="chevron" onclick="selectare_grupa(0)">
+                          9201
+                      </ons-list-item>
+                      <ons-list-item modifier="chevron" onclick="selectare_grupa(1)">
+                          9202
+                      </ons-list-item>
+                      <ons-list-item modifier="chevron" onclick="selectare_grupa(2)">
+                        9203
+                      </ons-list-item>
+                      <ons-list-item modifier="chevron" onclick="selectare_grupa(3)">
+                        9204
+                      </ons-list-item>
+                    </ons-list>
+                </div>
+            </ons-card>
+            <ons-card id="card2" style="text-align: center">
+                <div class="title">Anul 3 Licenta</div>
+                <div class="content">
+
+                  <ons-list>
+                      <ons-list-item modifier="chevron" onclick="selectare_grupa(0)">
+                          9301
+                      </ons-list-item>
+                      <ons-list-item modifier="chevron" onclick="selectare_grupa(1)">
+                          9302
+                      </ons-list-item>
+                      <ons-list-item modifier="chevron" onclick="selectare_grupa(2)">
+                        9303
+                      </ons-list-item>
+                      <ons-list-item modifier="chevron" onclick="selectare_grupa(3)">
+                        9304
+                      </ons-list-item>
+                    </ons-list>
+                </div>
+            </ons-card>
+            <ons-card id="card3" style="text-align: center">
+                <div class="title">Anul 4 Licenta</div>
+                <div class="content">
+
+                  <ons-list>
+                      <ons-list-item modifier="chevron" onclick="selectare_grupa(0)">
+                          9401
+                      </ons-list-item>
+                      <ons-list-item modifier="chevron" onclick="selectare_grupa(1)">
+                          9402
+                      </ons-list-item>
+                      <ons-list-item modifier="chevron" onclick="selectare_grupa(2)">
+                        9403
+                      </ons-list-item>
+                      <ons-list-item modifier="chevron" onclick="selectare_grupa(3)">
+                        9404
+                      </ons-list-item>
+                    </ons-list>
+                </div>
+            </ons-card>
+            <ons-card id="card4" style="text-align: center">
+                <div class="title">Anul 1 Master</div>
+                <div class="content" >
+                  <ons-list >
+                      <ons-list-item modifier="chevron" onclick="selectare_grupa(0)">
+                          9501
+                      </ons-list-item>
+                      <ons-list-item modifier="chevron" onclick="selectare_grupa(1)">
+                          9502
+                      </ons-list-item>
+                      <ons-list-item modifier="chevron" onclick="selectare_grupa(2)">
+                        9503
+                      </ons-list-item>
+                      <ons-list-item modifier="chevron" onclick="selectare_grupa(3)">
+                        9504
+                      </ons-list-item>
+                    </ons-list>
+                </div>
+            </ons-card>
+            <ons-card id="card5" style="text-align: center">
+                <div class="title">Anul 2 Master</div>
+                <div class="content">
+
+                  <ons-list>
+                      <ons-list-item modifier="chevron" onclick="selectare_grupa(0)">
+                          9601
+                      </ons-list-item>
+                      <ons-list-item modifier="chevron" onclick="selectare_grupa(1)">
+                          6602
+                      </ons-list-item>
+                      <ons-list-item modifier="chevron" onclick="selectare_grupa(2)">
+                        9603
+                      </ons-list-item>
+                      <ons-list-item modifier="chevron" onclick="selectare_grupa(3)">
+                        9604
+                      </ons-list-item>
+                    </ons-list>
+                </div>
+            </ons-card>
+        </ons-page>
+      </template>
+      
+<template id="page2.html">
+  <!--page2-->
+  <ons-page id="page2">
+        <ons-toolbar>
+          <div class="center">Orar SIM</div> 
+          <div class="right" style="font-size: 14px;"><span id="text_saptamana"> Saptamana: x</span><span style="padding: 20%" id="text_paritate" >Impar/Par</span></div> 
+        </ons-toolbar>
+        <ons-tabbar id="tabbar" swipeable animation="slide" position="top" tab-border >
+          <ons-tab page="luni.html" label="Luni" ></ons-tab>
+          <ons-tab page="marti.html" label="Marti" ></ons-tab>
+          <ons-tab page="miercuri.html" label="Miercuri" ></ons-tab>
+          <ons-tab page="joi.html" label="Joi" ></ons-tab>
+          <ons-tab page="vineri.html" label="Vineri" ></ons-tab>
+        </ons-tabbar>
+        <ons-fab id="push-fab" position="bottom right"><ons-back-button></ons-back-button></ons-fab>
+  </ons-page>
+  <!--page2-->
+</template>
+    
+
+<template id="luni.html">
+  <ons-page id="Luni">    
+    <ons-card id="matcard_00">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_00" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_00" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_00" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_00">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_00">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_00">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_00">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_01">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_01" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_01" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_01" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_01">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_01">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_01">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_01">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_02">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_02" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_02" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_02" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_02">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_02">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_02">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_02">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_03">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_03" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_03" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_03" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_03">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_03">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_03">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_03">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_04">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_04" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_04" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_04" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_04">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_04">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_04">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_04">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_05">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_05" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_05" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_05" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_05">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_05">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_05">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_05">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_06">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_06" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_06" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_06" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_06">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_06">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_06">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_06">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_07">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_07" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_07" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_07" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_07">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_07">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_07">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_07">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_08">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_08" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_08" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_08" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_08">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_08">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_08">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_08">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_09">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_09" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_09" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_09" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_09">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_09">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_09">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_09">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+
+    <script>ons.ready(function() {modificare (0), text_saptamana_paritate () }); </script>
+  </ons-page>
+</template>
+  
+<template id="marti.html">
+  <ons-page id="Marti">
+    <ons-card id="matcard_10">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_10" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_10" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_10" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_10">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_10">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_10">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_10">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_11">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_11" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_11" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_11" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_11">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_11">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_11">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_11">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_12">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_12" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_12" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_12" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_12">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_12">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_12">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_12">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_13">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_13" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_13" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_13" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_13">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_13">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_13">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_13">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_14">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_14" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_14" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_14" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_14">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_14">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_14">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_14">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_15">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_15" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_15" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_15" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_15">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_15">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_15">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_15">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_16">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_16" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_16" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_16" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_16">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_16">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_16">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_16">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_17">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_17" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_17" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_17" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_17">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_17">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_17">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_17">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_18">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_18" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_18" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_18" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_18">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_18">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_18">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_18">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_19">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_19" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_19" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_19" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_19">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_19">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_19">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_19">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+
+    <script>ons.ready(function() {modificare (1)}); </script>
+
+  </ons-page>
+</template>
+<template id="miercuri.html">
+  <ons-page id="Miercuri">   
+    <ons-card id="matcard_20">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_20" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_20" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_20" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_20">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_20">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_20">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_20">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_21">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_21" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_21" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_21" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_21">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_21">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_21">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_21">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_22">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_22" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_22" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_22" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_22">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_22">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_22">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_22">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_23">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_23" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_23" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_23" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_23">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_23">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_23">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_23">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_24">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_24" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_24" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_24" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_24">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_24">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_24">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_24">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_25">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_25" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_25" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_25" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_25">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_25">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_25">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_25">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_26">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_26" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_26" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_26" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_26">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_26">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_26">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_26">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_27">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_27" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_27" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_27" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_27">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_27">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_27">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_27">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_28">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_28" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_28" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_28" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_28">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_28">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_28">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_28">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_29">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_29" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_29" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_29" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_29">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_29">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_29">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_29">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+
+    <script>ons.ready(function() {modificare (2)}); </script>
+        
+
+  </ons-page>
+</template>
+
+<template id="joi.html">
+  <ons-page id="Joi">
+      <ons-card id="matcard_30">   
+          <div class="title">
+            <ons-row >
+                <ons-col>
+                  <div id="matnume_30" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+                  <div id="matora_30" class="list-item__subtitle">00:00 - 00:00</div>
+                </ons-col>
+                <ons-col vertical-align="center"><span id="mattip_30" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+            </ons-row>
+          </div>
+          <div class="content">
+            <ons-row><span id="matparitate_30">Paritate: A</span></ons-row>
+            <ons-row><span id="matsemigrupa_30">Semigrupa: B</span></ons-row>
+            <ons-row><span id="matprofesor_30">Profesor: X</span></ons-row>
+            <ons-row><span id="matsala_30">Sala: Y</span></ons-row>
+          </div>
+        </ons-card>
+        <ons-card id="matcard_31">   
+          <div class="title">
+            <ons-row >
+                <ons-col>
+                  <div id="matnume_31" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+                  <div id="matora_31" class="list-item__subtitle">00:00 - 00:00</div>
+                </ons-col>
+                <ons-col vertical-align="center"><span id="mattip_31" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+            </ons-row>
+          </div>
+          <div class="content">
+            <ons-row><span id="matparitate_31">Paritate: A</span></ons-row>
+            <ons-row><span id="matsemigrupa_31">Semigrupa: B</span></ons-row>
+            <ons-row><span id="matprofesor_31">Profesor: X</span></ons-row>
+            <ons-row><span id="matsala_31">Sala: Y</span></ons-row>
+          </div>
+        </ons-card>
+        <ons-card id="matcard_32">   
+          <div class="title">
+            <ons-row >
+                <ons-col>
+                  <div id="matnume_32" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+                  <div id="matora_32" class="list-item__subtitle">00:00 - 00:00</div>
+                </ons-col>
+                <ons-col vertical-align="center"><span id="mattip_32" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+            </ons-row>
+          </div>
+          <div class="content">
+            <ons-row><span id="matparitate_32">Paritate: A</span></ons-row>
+            <ons-row><span id="matsemigrupa_32">Semigrupa: B</span></ons-row>
+            <ons-row><span id="matprofesor_32">Profesor: X</span></ons-row>
+            <ons-row><span id="matsala_32">Sala: Y</span></ons-row>
+          </div>
+        </ons-card>
+        <ons-card id="matcard_33">   
+          <div class="title">
+            <ons-row >
+                <ons-col>
+                  <div id="matnume_33" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+                  <div id="matora_33" class="list-item__subtitle">00:00 - 00:00</div>
+                </ons-col>
+                <ons-col vertical-align="center"><span id="mattip_33" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+            </ons-row>
+          </div>
+          <div class="content">
+            <ons-row><span id="matparitate_33">Paritate: A</span></ons-row>
+            <ons-row><span id="matsemigrupa_33">Semigrupa: B</span></ons-row>
+            <ons-row><span id="matprofesor_33">Profesor: X</span></ons-row>
+            <ons-row><span id="matsala_33">Sala: Y</span></ons-row>
+          </div>
+        </ons-card>
+        <ons-card id="matcard_34">   
+          <div class="title">
+            <ons-row >
+                <ons-col>
+                  <div id="matnume_34" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+                  <div id="matora_34" class="list-item__subtitle">00:00 - 00:00</div>
+                </ons-col>
+                <ons-col vertical-align="center"><span id="mattip_34" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+            </ons-row>
+          </div>
+          <div class="content">
+            <ons-row><span id="matparitate_34">Paritate: A</span></ons-row>
+            <ons-row><span id="matsemigrupa_34">Semigrupa: B</span></ons-row>
+            <ons-row><span id="matprofesor_34">Profesor: X</span></ons-row>
+            <ons-row><span id="matsala_34">Sala: Y</span></ons-row>
+          </div>
+        </ons-card>
+        <ons-card id="matcard_35">   
+          <div class="title">
+            <ons-row >
+                <ons-col>
+                  <div id="matnume_35" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+                  <div id="matora_35" class="list-item__subtitle">00:00 - 00:00</div>
+                </ons-col>
+                <ons-col vertical-align="center"><span id="mattip_35" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+            </ons-row>
+          </div>
+          <div class="content">
+            <ons-row><span id="matparitate_35">Paritate: A</span></ons-row>
+            <ons-row><span id="matsemigrupa_35">Semigrupa: B</span></ons-row>
+            <ons-row><span id="matprofesor_35">Profesor: X</span></ons-row>
+            <ons-row><span id="matsala_35">Sala: Y</span></ons-row>
+          </div>
+        </ons-card>
+        <ons-card id="matcard_36">   
+          <div class="title">
+            <ons-row >
+                <ons-col>
+                  <div id="matnume_36" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+                  <div id="matora_36" class="list-item__subtitle">00:00 - 00:00</div>
+                </ons-col>
+                <ons-col vertical-align="center"><span id="mattip_36" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+            </ons-row>
+          </div>
+          <div class="content">
+            <ons-row><span id="matparitate_36">Paritate: A</span></ons-row>
+            <ons-row><span id="matsemigrupa_36">Semigrupa: B</span></ons-row>
+            <ons-row><span id="matprofesor_36">Profesor: X</span></ons-row>
+            <ons-row><span id="matsala_36">Sala: Y</span></ons-row>
+          </div>
+        </ons-card>
+        <ons-card id="matcard_37">   
+          <div class="title">
+            <ons-row >
+                <ons-col>
+                  <div id="matnume_37" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+                  <div id="matora_37" class="list-item__subtitle">00:00 - 00:00</div>
+                </ons-col>
+                <ons-col vertical-align="center"><span id="mattip_37" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+            </ons-row>
+          </div>
+          <div class="content">
+            <ons-row><span id="matparitate_37">Paritate: A</span></ons-row>
+            <ons-row><span id="matsemigrupa_37">Semigrupa: B</span></ons-row>
+            <ons-row><span id="matprofesor_37">Profesor: X</span></ons-row>
+            <ons-row><span id="matsala_37">Sala: Y</span></ons-row>
+          </div>
+        </ons-card>
+        <ons-card id="matcard_38">   
+          <div class="title">
+            <ons-row >
+                <ons-col>
+                  <div id="matnume_38" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+                  <div id="matora_38" class="list-item__subtitle">00:00 - 00:00</div>
+                </ons-col>
+                <ons-col vertical-align="center"><span id="mattip_38" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+            </ons-row>
+          </div>
+          <div class="content">
+            <ons-row><span id="matparitate_38">Paritate: A</span></ons-row>
+            <ons-row><span id="matsemigrupa_38">Semigrupa: B</span></ons-row>
+            <ons-row><span id="matprofesor_38">Profesor: X</span></ons-row>
+            <ons-row><span id="matsala_38">Sala: Y</span></ons-row>
+          </div>
+        </ons-card>
+        <ons-card id="matcard_39">   
+          <div class="title">
+            <ons-row >
+                <ons-col>
+                  <div id="matnume_39" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+                  <div id="matora_39" class="list-item__subtitle">00:00 - 00:00</div>
+                </ons-col>
+                <ons-col vertical-align="center"><span id="mattip_39" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+            </ons-row>
+          </div>
+          <div class="content">
+            <ons-row><span id="matparitate_39">Paritate: A</span></ons-row>
+            <ons-row><span id="matsemigrupa_39">Semigrupa: B</span></ons-row>
+            <ons-row><span id="matprofesor_39">Profesor: X</span></ons-row>
+            <ons-row><span id="matsala_39">Sala: Y</span></ons-row>
+          </div>
+        </ons-card>
+    
+        <script>ons.ready(function() {modificare (3)}); </script>
+          
+
+  </ons-page>
+</template>
+
+<template id="vineri.html">
+  <ons-page id="Vineri">
+    <ons-card id="matcard_40">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_40" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_40" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_40" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_40">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_40">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_40">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_40">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_41">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_41" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_41" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_41" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_41">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_41">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_41">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_41">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_42">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_42" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_42" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_42" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_42">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_42">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_42">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_42">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_43">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_43" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_43" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_43" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_43">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_43">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_43">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_43">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_44">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_44" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_44" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_44" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_44">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_44">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_44">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_44">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_45">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_45" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_45" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_45" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_45">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_45">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_45">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_45">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_46">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_46" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_46" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_46" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_46">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_46">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_46">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_46">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_47">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_47" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_47" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_47" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_47">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_47">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_47">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_47">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_48">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_48" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_48" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_48" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_48">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_48">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_48">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_48">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+    <ons-card id="matcard_49">   
+      <div class="title">
+        <ons-row >
+            <ons-col>
+              <div id="matnume_49" class="list-item__title" style="font-size: 20px">Nume Materie</div>
+              <div id="matora_49" class="list-item__subtitle">00:00 - 00:00</div>
+            </ons-col>
+            <ons-col vertical-align="center"><span id="mattip_49" style=" float: right; padding: 10px;" >Curs</span></ons-col>
+        </ons-row>
+      </div>
+      <div class="content">
+        <ons-row><span id="matparitate_49">Paritate: A</span></ons-row>
+        <ons-row><span id="matsemigrupa_49">Semigrupa: B</span></ons-row>
+        <ons-row><span id="matprofesor_49">Profesor: X</span></ons-row>
+        <ons-row><span id="matsala_49">Sala: Y</span></ons-row>
+      </div>
+    </ons-card>
+  
+      <script>ons.ready(function() {modificare (4)}); </script>
+
+  </ons-page>
+</template>
+
+
+
+  </body>
+</html>
